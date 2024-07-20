@@ -15,4 +15,4 @@ For this project, you will build a personal portfolio site, a static website whe
 * Add further information
   
 ## Completed Date:
-* Incomplete as of currently with future improvements to be made
+* Currently complete according to Codecademy's project requirements, further additions to be added for use of portfolio in future
